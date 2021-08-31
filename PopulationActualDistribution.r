@@ -1,6 +1,7 @@
 library(data.table)
 library(ggplot2)
-sourceData <- fread("https://eco2.mx/csv/dataset.csv")
+#Update file path
+sourceData <- fread("dataset.csv")
 
 # Density Curve Income Variable
 DensityPopIncome <- density(sourceData$Income, adjust = 1.8)

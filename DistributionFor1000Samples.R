@@ -1,6 +1,7 @@
 library(data.table)
 library(ggplot2)
-sourceData <- fread("https://eco2.mx/csv/dataset.csv")
+#Update file path
+sourceData <- fread("dataset.csv")
 
 # Creates 1.000 Samples with 100 observations each.
 OneThousandSamplesWith100Obs <- c()
