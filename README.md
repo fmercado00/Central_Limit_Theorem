@@ -1,2 +1,2 @@
 # Central_Limit_Theorem
-Central Limit Theorem 
+In probability theory, the central limit theorem (CLT) states that the distribution of a sample variable approximates a normal distribution (i.e., a “bell curve”) as the sample size becomes larger, assuming that all samples are identical in size, and regardless of the population's actual distribution shape.
